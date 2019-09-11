@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am quinteiroh on github.
+  * I am quinteiro (https://keybase.io/quinteiro) on keybase.
+  * I have a public key ASAIa9xTmI3AwC9qnPdviXIFqwdlDGOh0uxBzfsBN5uHNQo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120086bdc53988dc0c02f6a9cf76f897205ab07650c63a1d2ec41cdfb01379b87350a",
+      "host": "keybase.io",
+      "kid": "0120086bdc53988dc0c02f6a9cf76f897205ab07650c63a1d2ec41cdfb01379b87350a",
+      "uid": "3a1cfc4971da13366dcd11968ae77319",
+      "username": "quinteiro"
+    },
+    "merkle_root": {
+      "ctime": 1568175774,
+      "hash": "20039f8d168c0c9954ab86c332135c33709654597c345898390ba93fd040634a19bf45ca9b1533d8df080250f38f2b6af057d6ae663d15cea6cf1440c11502af",
+      "hash_meta": "e0c98da4a2fed62fe787a7e0514dd47fcb5fa59ac90667c7937cbfcab083b214",
+      "seqno": 6588259
+    },
+    "service": {
+      "entropy": "05rR+Yuk9HmhQA1v21iPmNDg",
+      "name": "github",
+      "username": "quinteiroh"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568176049,
+  "expire_in": 504576000,
+  "prev": "65a0c9e1b39388a13fefec0f5856c4e7d4404d5072fa0eff3cf69e4a859d65d0",
+  "seqno": 5,
+  "tag": "signature"
+}
+```
+
+with the key [ASAIa9xTmI3AwC9qnPdviXIFqwdlDGOh0uxBzfsBN5uHNQo](https://keybase.io/quinteiro), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgCGvcU5iNwMAvapz3b4lyBasHZQxjodLsQc37ATebhzUKp3BheWxvYWTESpcCBcQgZaDJ4bOTiKE/7+wPWFbE59RATVBy+g7/PPaeSoWdZdDEIDE5OrPLNXjDwIGSJv+3u+7cNrkJnAP1SLcrdyPMsQDdAgHCo3NpZ8RAnlC0kfJeqiliG2KRSSbYxgic1rug1QWejSQYrPBkGTHABlTHlykBcsqf8vzCL768PdxNXFXp8TjBPfFU4yKGB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOkoeNFBKtLe1lOC87rF8DIuMzNEIvQvjpXP6KAEmQj9o3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/quinteiro
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id quinteiro
+```
